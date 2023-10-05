@@ -1,2 +1,2 @@
 # BharatIntern-QuizApp
-Quiz App ( Bharat Internship Task ) 
+Quiz App ( Bharat Internship Task )  
